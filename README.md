@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hola Soy Facundo! 👋
 
-<!--
-**facusio/facusio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Informática
+🚀 Apasionado por el desarrollo de software, la arquitectura de sistemas y la resolución de problemas algorítmicos
+🌍 Interesado en tecnologías como React, Python, C#, Java, y más
 
-Here are some ideas to get you started:
+🛠 Tecnologías y herramientas
+	•	Lenguajes: Java, C#, JavaScript, Python, React
+	•	Frontend: React, CSS
+	•	Backend: C#
+	•	Bases de Datos: Firebase
+	•	Herramientas: Git, GitHub, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Proyectos destacados
+  •	🔹 [Sistema de Gestión de Citas (SaaS)] – Desarrollo de una plataforma para la gestión de citas con integraciones como Google Calendar y WhatsApp (En proceso)
+  •	🔹 [Juego interactivo basado en batallas por turnos] – Proyecto en C# inspirado en Pokémon
+
+🚀 En constante aprendizaje
+
+Actualmente mejorando mis habilidades en React y desarrollo SaaS. También me interesa la optimización de algoritmos y el desarrollo de videojuegos.
+
+📫 ¿Quieres contactarme?
+Puedes encontrarme en LinkedIn como https://www.linkedin.com/in/facundobanchero/.
