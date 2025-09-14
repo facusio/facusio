@@ -5,15 +5,16 @@
 🌍 Interesado en tecnologías como React, Python, C#, Java, y más
 
 🛠 Tecnologías y herramientas
-	•	Lenguajes: Java, C#, JavaScript, Python, React, CSS, HTML
+	•	Lenguajes: Java, C#, JavaScript, Python, React, CSS, HTML, TypeScript
 	•	Frontend: React, CSS, HTML. JavaScript
 	•	Backend: C#
-	•	Bases de Datos: Firebase
+	•	Bases de Datos: Firebase, Supabase
 	•	Herramientas: Git, GitHub, Figma
 
 📌 Proyectos destacados
   •	🔹 [Juego interactivo basado en batallas por turnos] – Proyecto en C# inspirado en Pokémon
   •	🔹 [Administrador para Ituzaingo Padel] – Proyecto en React de una aplicación de administración de canchas de padel
+  •	🔹 [Youngnine - Clothing Ecommerce] - Proyecto en React y Typescript.
 
 🚀 En constante aprendizaje
 
