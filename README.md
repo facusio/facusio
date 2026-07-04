@@ -8,7 +8,7 @@ Construyo software full-stack, de punta a punta: desde la arquitectura de datos 
 
 ---
 
-## 🚗 AOS — Automotive Operating System
+## AOS — Automotive Operating System
 
 **Todo tu concesionario. Un solo sistema.**
 
@@ -26,19 +26,6 @@ Plataforma de gestión para concesionarias de autos: centraliza leads, inventari
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL · NextAuth · AWS S3 · Docker
 
 🔗 [aos.uy](https://aos.uy)
-
----
-
-## Otro proyecto
-
-### 🎟️ Ticketing Mundial 2026
-
-Sistema de ticketing full-stack para el Mundial de Fútbol 2026: gestión de eventos, venta y transferencia de entradas, y validación de acceso mediante códigos QR.
-
-- **Backend** — API REST en Spring Boot 3.3 (Java 21) sobre PostgreSQL, con autenticación JWT, triggers de integridad y vistas de reporting.
-- **Frontend** — Next.js 16 + React 19 + TypeScript, UI con Tailwind CSS y shadcn/ui, generación y escaneo de QR en tiempo real.
-
-🔗 [Monorepo](https://github.com/facusio/ticketing-mundial-2026) · [Backend](https://github.com/facusio/ticketing-mundial-2026-backend) · [Frontend](https://github.com/facusio/ticketing-mundial-2026-frontend)
 
 ---
 
